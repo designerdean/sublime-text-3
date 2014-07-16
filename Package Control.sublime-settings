@@ -4,10 +4,13 @@
 		"Better CoffeeScript",
 		"Can I Use",
 		"Emmet",
+		"Local History",
 		"Sass",
 		"SideBarEnhancements",
 		"SublimeERB",
 		"SublimeLinter",
+		"SublimeLinter-coffee",
+		"SublimeLinter-jshint",
 		"Theme - Soda"
 	]
 }
