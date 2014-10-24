@@ -3,8 +3,9 @@
 	"font_size": 15,
 	"ignored_packages":
 	[
-		"Markdown",
-		"Vintage"
+		"Vintage",
+		"Better CoffeeScript",
+		"Markdown"
 	],
 	"tab_size": 2,
 	"theme": "Soda Dark.sublime-theme",
