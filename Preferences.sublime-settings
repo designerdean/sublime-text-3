@@ -1,6 +1,6 @@
 {
 	"color_scheme": "Packages/User/Monokai (SL).tmTheme",
-	"folder_exclude_patterns": [".svn", ".git", ".hg", "CVS", "build"],
+	"folder_exclude_patterns": [".svn", ".git", ".hg", "CVS", ".sass-cache", "build"],
 	"font_size": 15,
 	"ignored_packages":
 	[
