@@ -1,12 +1,20 @@
 {
 	"color_scheme": "Packages/User/Monokai (SL).tmTheme",
-	"folder_exclude_patterns": [".svn", ".git", ".hg", "CVS", ".sass-cache", "build"],
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		".sass-cache",
+		"build"
+	],
 	"font_size": 15,
 	"ignored_packages":
 	[
-		"Vintage",
+		"Markdown",
 		"Better CoffeeScript",
-		"Markdown"
+		"Vintage"
 	],
 	"tab_size": 2,
 	"theme": "Soda Dark.sublime-theme",
