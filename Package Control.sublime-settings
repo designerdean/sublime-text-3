@@ -1,4 +1,7 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"Better CoffeeScript",
@@ -7,6 +10,7 @@
 		"Local History",
 		"Markdown Preview",
 		"MarkdownEditing",
+		"Package Control",
 		"Sass",
 		"SideBarEnhancements",
 		"SublimeERB",
