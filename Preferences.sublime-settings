@@ -12,8 +12,8 @@
 	"font_size": 15,
 	"ignored_packages":
 	[
-		"Markdown",
 		"Better CoffeeScript",
+		"Markdown",
 		"Vintage"
 	],
 	"tab_size": 2,
