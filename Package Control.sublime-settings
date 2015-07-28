@@ -7,11 +7,14 @@
 		"Better CoffeeScript",
 		"Can I Use",
 		"Emmet",
+		"jQuery Snippets pack",
 		"Local History",
 		"Markdown Preview",
 		"MarkdownEditing",
+		"Modific",
 		"Package Control",
 		"Sass",
+		"SASS Snippets",
 		"SideBarEnhancements",
 		"SublimeERB",
 		"SublimeLinter",
@@ -19,6 +22,7 @@
 		"SublimeLinter-jshint",
 		"SVG-Snippets",
 		"Tag",
-		"Theme - Soda"
+		"Theme - Soda",
+		"Twitter Bootstrap Snippets"
 	]
 }
