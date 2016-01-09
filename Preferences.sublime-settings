@@ -9,7 +9,6 @@
 		"microservice",
 		"Technode"
 	],
-	"color_scheme": "Packages/User/Monokai (SL).tmTheme",
 	"folder_exclude_patterns":
 	[
 		".svn",
@@ -22,10 +21,9 @@
 	"font_size": 15,
 	"ignored_packages":
 	[
-		"Vintage",
 		"Better CoffeeScript",
 		"Markdown",
-		"Package Control"
+		"Vintage"
 	],
 	"ignored_words":
 	[
@@ -33,6 +31,7 @@
 		"Wordpress"
 	],
 	"tab_size": 2,
-	"theme": "Soda Dark.sublime-theme",
-	"translate_tabs_to_spaces": true
+	"translate_tabs_to_spaces": true,
+	"theme": "Material-Theme.sublime-theme",
+  "color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
 }

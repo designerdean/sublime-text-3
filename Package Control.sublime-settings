@@ -1,19 +1,23 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"Package Control"
 	],
 	"installed_packages":
 	[
 		"Better CoffeeScript",
 		"Can I Use",
 		"Emmet",
+		"Emmet Css Snippets",
 		"jQuery Snippets pack",
 		"Local History",
 		"Markdown Preview",
 		"MarkdownEditing",
+		"Material Color Scheme",
+		"Material Theme",
 		"Modific",
 		"Package Control",
+		"Preap",
 		"Sass",
 		"SASS Snippets",
 		"SideBarEnhancements",
